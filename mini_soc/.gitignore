@@ -1,0 +1,33 @@
+
+# Vivado generated files
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.dcp
+*.bit
+*.ltx
+
+# ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.mpf
+*.mti
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
